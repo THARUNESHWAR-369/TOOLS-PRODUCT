@@ -7,7 +7,9 @@ pillow
 torch
 torchvision
 tqdm
-ultralytics==8.0.100
 uvicorn
 serverless_wsgi
 gunicorn
+fastsam @ git+https://github.com/CASIA-IVA-Lab/FastSAM.git
+clip @ git+https://github.com/openai/CLIP.git
+ultralytics==8.0.100
