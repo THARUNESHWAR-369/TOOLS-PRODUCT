@@ -1,0 +1,12 @@
+flask
+Flask-Cors
+matplotlib
+numpy
+opencv-python
+pillow
+torch
+torchvision
+tqdm
+ultralytics==8.0.100
+uvicorn
+serverless_wsgi
